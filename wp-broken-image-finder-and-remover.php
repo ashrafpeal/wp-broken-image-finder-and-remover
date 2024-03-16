@@ -5,7 +5,7 @@
  * Plugin URI:  # (Replace with your plugin URL)
  * Description: A basic plugin demonstrating a menu page.
  * Version:     1.0
- * Author:      Ashraf
+ * Author:      Ashraf Uddin
  * Author URI:  https://wordpressdevservice.com/
  * License:     GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
